@@ -1,5 +1,5 @@
 # Data Science Process Management
-Resources for Data Science Process management
+Resources for Data Science process management
 
 ## Videos
 * [Non-Flink Machine Learning on Flink](https://www.youtube.com/watch?v=fZXQZNKFUVE) by Ted Dunning at FlinkForward SF 2017
@@ -9,3 +9,6 @@ Resources for Data Science Process management
 * [Data Science != Software Engineering](https://blog.dominodatalab.com/data-science-software-engineering/) by Domino Data Lab
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) by Martin Zinkevich at Google
 * [What's Your ML Test Score? A Rubric for ML Production Systems](https://research.google.com/pubs/pub45742.html) by Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley at Reliable Machine Learning in the Wild - NIPS 2016 Workshop
+
+##  Templates
+* [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
