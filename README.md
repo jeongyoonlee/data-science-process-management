@@ -12,6 +12,7 @@ Resources for Data Science process management
 * [What's Your ML Test Score? A Rubric for ML Production Systems](https://research.google.com/pubs/pub45742.html) by Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley at Reliable Machine Learning in the Wild - NIPS 2016 Workshop
 * [Machine Learning in Production](https://github.com/szilard/ml-prod) by Szilard Pafka at Epoch ([Video](https://www.youtube.com/watch?v=2BTl2maXvFk) at Data Science LA meetup)
 * [Production and Beyond](https://www.slideshare.net/turi-inc/model-management) by Rajat Arya and Alice Zheng at Turi
+* [10 More Lessons Learned from Building Real-Life Machine Learning Systems](https://chatbotnewsdaily.com/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e) by Xavier Amastriain at Dr.Assist
 
 ## Templates
 * [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
