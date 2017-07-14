@@ -12,4 +12,5 @@ Resources for Data Science process management
 * [What's Your ML Test Score? A Rubric for ML Production Systems](https://research.google.com/pubs/pub45742.html) by Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley at Reliable Machine Learning in the Wild - NIPS 2016 Workshop
 
 ##  Templates
+* [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
 * [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
