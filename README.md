@@ -19,6 +19,6 @@ Resources for Data Science process management
 
 ## Templates
 * [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
-  * [Four Problems in Using CRISP-DM and How To Fix Them](git@github.com:jeongyoonlee/data-science-process-management.git) by James Taylor on [KDnuggets](http://www.kdnuggets.com/)
+  * [Four Problems in Using CRISP-DM and How To Fix Them](http://www.kdnuggets.com/2017/01/four-problems-crisp-dm-fix.html) by James Taylor on [KDnuggets](http://www.kdnuggets.com/)
 * [SEMMA](https://en.wikipedia.org/wiki/SEMMA) by SAS
 * [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
