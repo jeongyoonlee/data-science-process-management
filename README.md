@@ -3,6 +3,9 @@ Resources for Data Science process management
 
 ## Videos
 * [Non-Flink Machine Learning on Flink](https://www.youtube.com/watch?v=fZXQZNKFUVE) by Ted Dunning at FlinkForward SF 2017
+  > * Work on things that give most return - better data and better questions
+  > * Use the decoy (dummy) and canary (baseline/reference) servers
+  > * Use the containerized (modular) framework
 * [Artificial Intelligence in the Software Engineering Workflow](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491976289/video311928.html) by Peter Norvig at O'Reilly Artificial Intelligence Conference 2017 (subscription required)
 
 ## Articles
