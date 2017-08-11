@@ -28,3 +28,7 @@ Resources for Data Science process management
   * [Four Problems in Using CRISP-DM and How To Fix Them](http://www.kdnuggets.com/2017/01/four-problems-crisp-dm-fix.html) by James Taylor on [KDnuggets](http://www.kdnuggets.com/)
 * [SEMMA](https://en.wikipedia.org/wiki/SEMMA) by SAS
 * [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
+
+## Tools
+* [Pachyderm](http://www.pachyderm.io/index.html)
+* [Kubernetes](https://kubernetes.io/)
