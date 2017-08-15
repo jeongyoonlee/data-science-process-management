@@ -30,7 +30,12 @@ Resources for Data Science process management
 * [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
 
 ## Tools
+### Data/Modeling/Deployment Pipelines
 * [Pachyderm](http://www.pachyderm.io/index.html) - Version control of data and language-agnostic data pipelines
 * [Kubernetes](https://kubernetes.io/) - Automating deployment, scaling, and management of containerized applications
 * [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - Data pipeline management on AWS
 * [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) - Data pipeline management on Azure
+
+### Model Managements
+* [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
+* [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn
