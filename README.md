@@ -30,5 +30,7 @@ Resources for Data Science process management
 * [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
 
 ## Tools
-* [Pachyderm](http://www.pachyderm.io/index.html)
-* [Kubernetes](https://kubernetes.io/)
+* [Pachyderm](http://www.pachyderm.io/index.html) - Version control of data and language-agnostic data pipelines
+* [Kubernetes](https://kubernetes.io/) - Automating deployment, scaling, and management of containerized applications
+* [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - Data pipeline management on AWS
+* [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) - Data pipeline management on Azure
