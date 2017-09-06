@@ -18,6 +18,7 @@ Resources for Data Science process management
 * [Machine Learning in Production](https://github.com/szilard/ml-prod) by Szilard Pafka at Epoch ([Video](https://www.youtube.com/watch?v=2BTl2maXvFk) at Data Science LA meetup)
 * [What is the Workflow or Process of a Data Scientist](https://www.quora.com/What-is-the-workflow-or-process-of-a-data-scientist/answer/Ryan-Fox-Squire?srid=pJh7) by Ryan Fox Squire on Quora
 * [Insights from a Predictive Model Pipeline Abstraction](https://medium.com/@HarlanH/insights-from-a-predictive-model-pipeline-abstraction-c8b47fd406da) by Harlan Harris
+* [Thoughts on Managing Data Science Team Workstreams](https://medium.com/@HarlanH/thoughts-on-managing-data-science-team-workstreams-and-a-shiny-app-f2b25549946f) by Harlan Harris
 
 ### Understand Data Science Tasks
 * [Big Data – From Descriptive to Prescriptive](http://www.miprofs.com/big-data-descriptive-to-predictive/) by Cameron Cramer
@@ -44,4 +45,4 @@ Resources for Data Science process management
 
 ### Model Managements
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
-* [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn
+* [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn ([Paper](http://dx.doi.org/10.1145/2939502.2939516))
