@@ -14,6 +14,7 @@ Resources for Data Science process management
 * [Why Managing Data Scientists Is Different](http://sloanreview.mit.edu/article/why-managing-data-scientists-is-different/) by Roger M. Stein at MIT
 * [Data Science != Software Engineering](https://blog.dominodatalab.com/data-science-software-engineering/) by Domino Data Lab
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) by Martin Zinkevich at Google
+* [Distributed Time Travel for Feature Generation](https://medium.com/netflix-techblog/distributed-time-travel-for-feature-generation-389cccdd3907) by Hossein Taghavi, Prasanna Padmanabhan, DB Tsai, Faisal Zakaria Siddiqi, and Justin Basilico at Netflix
 * [What's Your ML Test Score? A Rubric for ML Production Systems](https://research.google.com/pubs/pub45742.html) by Eric Breck et al. at Reliable Machine Learning in the Wild - NIPS 2016 Workshop
 * [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google.com/pubs/pub43146.html) by D. Scully et al. at SE4ML - NIPS 2014 Workshop
 * [Machine Learning in Production](https://github.com/szilard/ml-prod) by Szilard Pafka at Epoch ([Video](https://www.youtube.com/watch?v=2BTl2maXvFk) at Data Science LA meetup)
