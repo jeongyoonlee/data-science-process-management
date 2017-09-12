@@ -66,4 +66,5 @@ By compiling those, we hope that it helps us get closer to the best practices in
 ### Model Managements
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
 * [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn ([Paper](http://dx.doi.org/10.1145/2939502.2939516))
+* [Studio](http://studio.ml/) by studio.ml
 
