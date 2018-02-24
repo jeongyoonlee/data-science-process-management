@@ -24,6 +24,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 ### Articles
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) at Uber
 * [Data Science != Software Engineering](https://blog.dominodatalab.com/data-science-software-engineering/) by Domino Data Lab
+* [The Practical Guide to Managing Data Science at Scale](https://insidebigdata.com/white-paper/practical-guide-managing-data-science-scale/) by Domino Data Lab
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) by Martin Zinkevich at Google
 * [Distributed Time Travel for Feature Generation](https://medium.com/netflix-techblog/distributed-time-travel-for-feature-generation-389cccdd3907) by Hossein Taghavi, Prasanna Padmanabhan, DB Tsai, Faisal Zakaria Siddiqi, and Justin Basilico at Netflix
 * [What's Your ML Test Score? A Rubric for ML Production Systems](https://research.google.com/pubs/pub45742.html) by Eric Breck et al. at Reliable Machine Learning in the Wild - NIPS 2016 Workshop
