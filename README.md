@@ -31,6 +31,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google.com/pubs/pub43146.html) by D. Scully et al. at SE4ML - NIPS 2014 Workshop
 * [Machine Learning in Production](https://github.com/szilard/ml-prod) by Szilard Pafka at Epoch ([Video](https://www.youtube.com/watch?v=2BTl2maXvFk) at Data Science LA meetup)
 * [Insights from a Predictive Model Pipeline Abstraction](https://medium.com/@HarlanH/insights-from-a-predictive-model-pipeline-abstraction-c8b47fd406da) by Harlan Harris
+* [Moving Towards Managing AI Products - 10 Lessons for Building AI-Driven Products](https://blog.insightdatascience.com/moving-towards-managing-ai-products-5268c5e9ecf2) by Prasad Velamuri
 
 ### Videos
 * [Non-Flink Machine Learning on Flink](https://www.youtube.com/watch?v=fZXQZNKFUVE) by Ted Dunning at FlinkForward SF 2017
