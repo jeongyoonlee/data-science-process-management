@@ -21,6 +21,13 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [What is the Workflow or Process of a Data Scientist](https://www.quora.com/What-is-the-workflow-or-process-of-a-data-scientist/answer/Ryan-Fox-Squire?srid=pJh7) by Ryan Fox Squire on Quora
 
 ## Data Scince Product Development Process
+
+### Use Cases
+* [Meson: Workflow Orchestration for Netflix Recommendations](https://medium.com/netflix-techblog/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9) on Netflix Technical Blog
+* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) on Uber Engineering Blog
+* [Bighead: Airbnb’s End-to-End Machine Learning Platform](https://www.slideshare.net/FeiChen29/ml-platform-q1-meetup-airbnbs-endtoend-machine-learning-infrastructure) by Krishna Puttaswamy and Nick Handel
+* [Data science at eHarmony: A generalized framework for personalization](https://conferences.oreilly.com/strata/strata-ny-2016/public/schedule/detail/51731) by Jonathan Morra at Strata 2016
+
 ### Articles
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) at Uber
 * [Data Science != Software Engineering](https://blog.dominodatalab.com/data-science-software-engineering/) by Domino Data Lab
@@ -44,15 +51,8 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [Production and Beyond](https://www.slideshare.net/turi-inc/model-management) by Rajat Arya and Alice Zheng at Turi
 * [10 More Lessons Learned from Building Real-Life Machine Learning Systems](https://chatbotnewsdaily.com/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e) by Xavier Amastriain at Dr.Assist
 
-### Use Cases
-* [Meson: Workflow Orchestration for Netflix Recommendations](https://medium.com/netflix-techblog/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9) on Netflix Technical Blog
-* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) on Uber Engineering Blog
-* [Bighead: Airbnb’s End-to-End Machine Learning Platform](https://www.slideshare.net/FeiChen29/ml-platform-q1-meetup-airbnbs-endtoend-machine-learning-infrastructure) by Krishna Puttaswamy and Nick Handel
-* [Data science at eHarmony: A generalized framework for personalization](https://conferences.oreilly.com/strata/strata-ny-2016/public/schedule/detail/51731) by Jonathan Morra at Strata 2016
-
 ## Data Science Knowledge Sharing Process
 * [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091) at AirBnB
-
 
 ## Tools
 ### Data Analytics Process Templetes
