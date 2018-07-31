@@ -67,13 +67,14 @@ By compiling those, we hope that it helps us get closer to the best practices in
 ### Data/Modeling/Deployment Pipelines
 * [Pachyderm](http://www.pachyderm.io/index.html) - Version control of data and language-agnostic data pipelines
 * [Kubernetes](https://kubernetes.io/) - Automating deployment, scaling, and management of containerized applications
-* [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - Data pipeline management on AWS
-* [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) - Data pipeline management on Azure
-* [AirFlow](https://github.com/apache/incubator-airflow) - AirBnB
+* [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) by Amazon - Data pipeline management on AWS
+* [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) by Microsoft - Data pipeline management on Azure
+* [AirFlow](https://github.com/apache/incubator-airflow) by AirBnB
 * [Oryx](https://github.com/OryxProject/oryx) - Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 
 ### Model Managements
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
 * [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn ([Paper](http://dx.doi.org/10.1145/2939502.2939516))
 * [Studio](http://studio.ml/) by studio.ml
+* [Azure Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/deployment-setup-configuration) by Microsoft
 
