@@ -72,7 +72,8 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [AirFlow](https://github.com/apache/incubator-airflow) by AirBnB
 * [Oryx](https://github.com/OryxProject/oryx) - Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 * [Luigi](https://github.com/spotify/luigi) by Spotify
-* [MLflow](https://mlflow.org/) by Databricks
+* [MLflow](https://mlflow.org/) by Databricks - an open source platform for managing the end-to-end machine learning lifecycle.
+  * [Infrastructure for the Complete ML Lifecycle](https://vimeo.com/274266886#t=33s) by Matei Zaharia at Spark+AI Summit 2018
 
 ### Model Managements
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
