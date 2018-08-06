@@ -72,6 +72,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [AirFlow](https://github.com/apache/incubator-airflow) by AirBnB
 * [Oryx](https://github.com/OryxProject/oryx) - Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 * [Luigi](https://github.com/spotify/luigi) by Spotify
+* [MLflow](https://mlflow.org/) by Databricks
 
 ### Model Managements
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
