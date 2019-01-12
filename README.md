@@ -74,9 +74,9 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [Luigi](https://github.com/spotify/luigi) by Spotify
 * [MLflow](https://mlflow.org/) by Databricks - an open source platform for managing the end-to-end machine learning lifecycle.
   * [Infrastructure for the Complete ML Lifecycle](https://vimeo.com/274266886#t=33s) by Matei Zaharia at Spark+AI Summit 2018
-  * [Kubeflow](https://www.kubeflow.org/) - An open-source model training, deployment, and serving tool leveraging the [kubernetes](https://kubernetes.io/) ecosystem.
-  * [Polyaxon](https://polyaxon.com/) - Another open-source model training, deployment, and serving tool.
-  * [Algorithmia](https://algorithmia.com/) A SaaS solution for managing the complete ML workflow cycle.
+* [Kubeflow](https://www.kubeflow.org/) - An open-source model training, deployment, and serving tool leveraging the [kubernetes](https://kubernetes.io/) ecosystem.
+* [Polyaxon](https://polyaxon.com/) - Another open-source model training, deployment, and serving tool.
+* [Algorithmia](https://algorithmia.com/) A SaaS solution for managing the complete ML workflow cycle.
 
   ### Model Managements
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
