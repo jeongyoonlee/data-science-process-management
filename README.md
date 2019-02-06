@@ -100,3 +100,8 @@ Open source:
 
 * [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn ([Paper](http://dx.doi.org/10.1145/2939502.2939516))
 * [DVC: Version Control System for Machine Learning Projects](https://dvc.org/)
+
+### Experiment Management
+
+* [Comet](https://comet-ml.com/)
+* [Sacred](https://github.com/IDSIA/sacred)
