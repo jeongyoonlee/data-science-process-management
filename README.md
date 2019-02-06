@@ -22,7 +22,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 
 * [What is the Workflow or Process of a Data Scientist](https://www.quora.com/What-is-the-workflow-or-process-of-a-data-scientist/answer/Ryan-Fox-Squire?srid=pJh7) by Ryan Fox Squire on Quora
 
-## Data Scince Product Development Process
+## Data Science Product Development Process
 
 ### Use Cases
 
@@ -55,7 +55,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 ### Presentation Slides
 
 * [Production and Beyond](https://www.slideshare.net/turi-inc/model-management) by Rajat Arya and Alice Zheng at Turi
-* [10 More Lessons Learned from Building Real-Life Machine Learning Systems](https://chatbotnewsdaily.com/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e) by Xavier Amastriain at Dr.Assist
+* [10 More Lessons Learned from Building Real-Life Machine Learning Systems](https://chatbotnewsdaily.com/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e) by Xavier Amatriain at Dr.Assist
 
 ## Data Science Knowledge Sharing Process
 
@@ -63,7 +63,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 
 ## Tools
 
-### Data Analytics Process Templetes
+### Data Analytics Process Templates
 
 * [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
   * [Four Problems in Using CRISP-DM and How To Fix Them](http://www.kdnuggets.com/2017/01/four-problems-crisp-dm-fix.html) by James Taylor on [KDnuggets](http://www.kdnuggets.com/)
