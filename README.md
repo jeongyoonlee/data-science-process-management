@@ -90,9 +90,13 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [Polyaxon](https://polyaxon.com/) - Another open-source model training, deployment, and serving tool.
 * [Algorithmia](https://algorithmia.com/) A SaaS solution for managing the complete ML workflow cycle.
 
-### Model Managements
+### Model Management
 
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
-* [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn ([Paper](http://dx.doi.org/10.1145/2939502.2939516))
 * [Studio](http://studio.ml/) by studio.ml
 * [Azure Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/deployment-setup-configuration) by Microsoft
+
+Open source:
+
+* [ModelDB](https://mitdbg.github.io/modeldb/) by MIT DB Group - Supports Spark ML and Scikit-Learn ([Paper](http://dx.doi.org/10.1145/2939502.2939516))
+* [DVC: Version Control System for Machine Learning Projects](https://dvc.org/)
