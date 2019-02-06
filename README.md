@@ -33,13 +33,13 @@ By compiling those, we hope that it helps us get closer to the best practices in
 
 ### Articles
 
-* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) at Uber
+* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) (blog post); also see [scientific paper](http://proceedings.mlr.press/v67/li17a.html) and [talk video](https://youtu.be/MpnszJ_3Ong)
 * [Data Science != Software Engineering](https://blog.dominodatalab.com/data-science-software-engineering/) by Domino Data Lab
 * [The Practical Guide to Managing Data Science at Scale](https://insidebigdata.com/white-paper/practical-guide-managing-data-science-scale/) by Domino Data Lab
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) by Martin Zinkevich at Google
 * [Distributed Time Travel for Feature Generation](https://medium.com/netflix-techblog/distributed-time-travel-for-feature-generation-389cccdd3907) by Hossein Taghavi, Prasanna Padmanabhan, DB Tsai, Faisal Zakaria Siddiqi, and Justin Basilico at Netflix
 * [What's Your ML Test Score? A Rubric for ML Production Systems](https://research.google.com/pubs/pub45742.html) by Eric Breck et al. at Reliable Machine Learning in the Wild - NIPS 2016 Workshop
-* [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google.com/pubs/pub43146.html) by D. Scully et al. at SE4ML - NIPS 2014 Workshop
+* [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google.com/pubs/pub43146.html) by D. Sculley et al. at SE4ML - NIPS 2014 Workshop
 * [Machine Learning in Production](https://github.com/szilard/ml-prod) by Szilard Pafka at Epoch ([Video](https://www.youtube.com/watch?v=2BTl2maXvFk) at Data Science LA meetup)
 * [Insights from a Predictive Model Pipeline Abstraction](https://medium.com/@HarlanH/insights-from-a-predictive-model-pipeline-abstraction-c8b47fd406da) by Harlan Harris
 * [Moving Towards Managing AI Products - 10 Lessons for Building AI-Driven Products](https://blog.insightdatascience.com/moving-towards-managing-ai-products-5268c5e9ecf2) by Prasad Velamuri
@@ -51,6 +51,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
   > * Use the decoy (dummy) and canary (baseline/reference) servers
   > * Use the containerized (modular) framework
 * [Artificial Intelligence in the Software Engineering Workflow](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491976289/video311928.html) by Peter Norvig at O'Reilly Artificial Intelligence Conference 2017 (subscription required)
+* [Machine Learning, Technical Debt, and You](https://youtu.be/V18AsBIHlWs) by D. Sculley at PAPIs 2017
 
 ### Presentation Slides
 
