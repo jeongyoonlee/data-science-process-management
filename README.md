@@ -104,4 +104,5 @@ Open source:
 ### Experiment Management
 
 * [Comet](https://comet-ml.com/)
+* [Weights & Biases](https://www.wandb.com/)
 * [Sacred](https://github.com/IDSIA/sacred)
