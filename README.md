@@ -95,6 +95,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [Steam](https://www.h2o.ai/steam/) by H2O - Model management on H2O
 * [Studio](http://studio.ml/) by studio.ml
 * [Azure Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/deployment-setup-configuration) by Microsoft
+* [dotscience](https://dotscience.com/products/)
 
 Open source:
 
