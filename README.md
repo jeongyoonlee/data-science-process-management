@@ -70,6 +70,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
   * [Four Problems in Using CRISP-DM and How To Fix Them](http://www.kdnuggets.com/2017/01/four-problems-crisp-dm-fix.html) by James Taylor on [KDnuggets](http://www.kdnuggets.com/)
 * [SEMMA](https://en.wikipedia.org/wiki/SEMMA) by SAS
 * [Team Data Science Process](https://github.com/Azure/Microsoft-TDSP) by Microsoft
+* [Cookiecutter Data Science Template](http://drivendata.github.io/cookiecutter-data-science/) by DrivenData
 
 ### Knowledge Sharing
 
