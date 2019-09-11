@@ -52,11 +52,13 @@ By compiling those, we hope that it helps us get closer to the best practices in
   > * Use the containerized (modular) framework
 * [Artificial Intelligence in the Software Engineering Workflow](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491976289/video311928.html) by Peter Norvig at O'Reilly Artificial Intelligence Conference 2017 (subscription required)
 * [Machine Learning, Technical Debt, and You](https://youtu.be/V18AsBIHlWs) by D. Sculley at PAPIs 2017
+* [Webinar: Managing the Complete Machine Learning Lifecycle](https://pages.databricks.com/201903-US-WB-Managing-the-Complete-Machine-Learning-Lifecycle_ty.html) by Andy Konwinski (Databricks)
 
 ### Presentation Slides
 
 * [Production and Beyond](https://www.slideshare.net/turi-inc/model-management) by Rajat Arya and Alice Zheng at Turi
 * [10 More Lessons Learned from Building Real-Life Machine Learning Systems](https://chatbotnewsdaily.com/10-more-lessons-learned-from-building-real-life-ml-systems-part-i-b309cafc7b5e) by Xavier Amatriain at Dr.Assist
+* [Standardizing the Machine Learning Lifecycle](https://pages.databricks.com/EB-Standardizing-the-Machine-Learning-Lifecycle-LP.html)
 
 ## Data Science Knowledge Sharing Process
 
@@ -90,6 +92,7 @@ By compiling those, we hope that it helps us get closer to the best practices in
 * [Kubeflow](https://www.kubeflow.org/) - An open-source model training, deployment, and serving tool leveraging the [kubernetes](https://kubernetes.io/) ecosystem.
 * [Polyaxon](https://polyaxon.com/) - Another open-source model training, deployment, and serving tool.
 * [Algorithmia](https://algorithmia.com/) A SaaS solution for managing the complete ML workflow cycle.
+* [Lore](https://github.com/instacart/lore) Framework to structure ML projects and pipelines
 
 ### Model Management
 
