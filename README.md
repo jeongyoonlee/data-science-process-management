@@ -6,7 +6,7 @@ It is challenging to establish good process around data science tasks. Many data
 
 Yet, it is crucial to have well defined process, because, without it, organizations cannot accumulate knowledge internally, and have to rely on individuals to perform critical tasks. People come and go, while process sticks around.
 
-While there is no good standard so far, there have been active conversations around the issue. 
+While there is no good standard so far, there have been active conversations around the issue.
 
 By compiling those, we hope that it helps us get closer to the best practices in data science process management.
 
