@@ -26,10 +26,11 @@ By compiling those, we hope that it helps us get closer to the best practices in
 
 ### Use Cases
 
-* [Meson: Workflow Orchestration for Netflix Recommendations](https://medium.com/netflix-techblog/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9) on Netflix Technical Blog
-* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) on Uber Engineering Blog
+* [Meson: Workflow Orchestration for Netflix Recommendations](https://medium.com/netflix-techblog/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9) at Netflix Technical Blog
+* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) at Uber Engineering Blog
 * [Bighead: Airbnb’s End-to-End Machine Learning Platform](https://www.slideshare.net/FeiChen29/ml-platform-q1-meetup-airbnbs-endtoend-machine-learning-infrastructure) by Krishna Puttaswamy and Nick Handel
 * [Data science at eHarmony: A generalized framework for personalization](https://conferences.oreilly.com/strata/strata-ny-2016/public/schedule/detail/51731) by Jonathan Morra at Strata 2016
+* [Continuous Delivery for Machine Learning - Automating the end-to-end lifecycle of ML applications](https://martinfowler.com/articles/cd4ml.html) by Danilo Sato, Arif Wider, and Christoph Windheuser on Sep. 2019
 
 ### Articles
 
